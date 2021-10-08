@@ -1,6 +1,6 @@
 const express = require("express");
 const logger = require("morgan");
-const mongojs = require("mongojs")
+const mongojs = require("mongojs");
 const mongoose = require("mongoose");
 const compression = require("compression");
 const path = require("path");
